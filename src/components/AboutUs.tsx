@@ -32,7 +32,7 @@ export function AboutUs() {
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute inset-0 bg-black opacity-50"></div>
           <img
-            src="assets/hero.png"
+            src="/hero.png"
             alt="Agricultural products"
             className="w-fit h-[100%] absolute right-0 bottom-0 md:bottom-5 md:h-full"
           />
