@@ -75,9 +75,9 @@ export function AboutUs() {
                 quality is not a promise — it’s a responsibility.”
               </p>
             </div>
-            <div className="md:w-1/2 bg-gray-50 p-8 rounded-lg">
+            <div className="md:w-1/2 bg-gray-50 p-8 flex flex-col justify-center rounded-lg items-center">
               <div className="flex items-center mb-4">
-                <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mr-4">
+                <div className="p-3 bg-green-100 rounded-full flex items-center justify-center mr-4">
                   <svg
                     className="w-6 h-6 text-green-700"
                     fill="none"
@@ -98,12 +98,13 @@ export function AboutUs() {
                     Decades of Experience
                   </h3>
                   <p className="text-gray-600">
-                    Established traditions with modern innovation
+                    Blending generations of spice cultivation expertise with
+                    modern export innovation.
                   </p>
                 </div>
               </div>
               <div className="flex items-center">
-                <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mr-4">
+                <div className="p-3 bg-green-100 rounded-full flex items-center justify-center mr-4">
                   <svg
                     className="w-6 h-6 text-green-700"
                     fill="none"
@@ -122,7 +123,9 @@ export function AboutUs() {
                 <div>
                   <h3 className="font-semibold text-lg">Global Reach</h3>
                   <p className="text-gray-600">
-                    Serving clients across continents
+                    Supplying authentic Malabar nutmeg and mace to clients
+                    across 25+ international destinations with on-time delivery
+                    assurance.
                   </p>
                 </div>
               </div>
