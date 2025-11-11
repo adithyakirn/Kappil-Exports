@@ -34,7 +34,7 @@ export function AboutUs() {
           <img
             src="/hero.png"
             alt="Agricultural products"
-            className="w-fit h-[100%] absolute right-0 bottom-0 md:bottom-5 md:h-full"
+            className="w-fit absolute right-0 sm:h-full bottom-0 md:bottom-5 md:h-full"
           />
         </div>
         <div className="relative container mx-auto px-4 py-24 md:py-32">
