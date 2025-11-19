@@ -258,20 +258,6 @@ export function AboutUs() {
                 before dispatch.
               </p>
 
-              <div className="flex flex-wrap gap-4 mt-6">
-                <span className="px-4 py-2 bg-gray-100 text-gray-700 rounded-full text-sm font-medium">
-                  FSSAI Compliant
-                </span>
-                <span className="px-4 py-2 bg-gray-100 text-gray-700 rounded-full text-sm font-medium">
-                  GMP Certified
-                </span>
-                <span className="px-4 py-2 bg-gray-100 text-gray-700 rounded-full text-sm font-medium">
-                  ISO Standards
-                </span>
-                <span className="px-4 py-2 bg-gray-100 text-gray-700 rounded-full text-sm font-medium">
-                  Third-Party COA Verified
-                </span>
-              </div>
             </div>
 
             <div className="md:w-1/2">
